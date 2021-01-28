@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello!
+
+### - 🌱 I’m currently studying quantitative finance & risk analytics
+### - 📫 How to reach me: mcconj2@rpi.edu
+### - 😄 Pronouns: she/her
+### - ⚡ Fun fact: I have a collection of 3D printed mathematical knots! 
 
 <!--
 **jocelynmcconnon-bot/jocelynmcconnon-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
