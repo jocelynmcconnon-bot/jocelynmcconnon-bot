@@ -1,8 +1,7 @@
 ### Hello!
 
-### - 🌱 I’m currently studying quantitative finance & risk analytics
-### - 📫 How to reach me: mcconj2@rpi.edu
-### - 😄 Pronouns: she/her
+### - 🌱 I’m currently working with big data
+### - 📫 How to reach me: jocelynamcconnon@gmail.com
 ### - ⚡ Fun fact: I have a collection of 3D printed mathematical knots! 
 
 <!--
